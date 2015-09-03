@@ -1,5 +1,7 @@
 tags:
-  - tag1
+  - methods
+  - puts
+  - strings
 languages:
-  - language1
+  - ruby
 resources: 0
