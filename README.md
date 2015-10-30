@@ -46,7 +46,7 @@ Our `display_board` method should print out a board that looks exactly like:
 
 **Board Rules**
 
-1. Each cell is presented by a string with 3 spaces: `"   "`
+1. Each cell is presented by a string with 3 spaces: `" ` ` ` ` "`
 2. Each row has 3 cells, the middle separated by 2 `|` (pipe) characters: `   |   |   `
 3. There are 3 rows, with 2 separating lines of 11 `-` (dash) characters: `-----------` 
 
