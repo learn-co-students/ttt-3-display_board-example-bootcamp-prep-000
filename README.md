@@ -47,7 +47,7 @@ Our `display_board` method should print out a board that looks exactly like:
 **Board Rules**
 
 1. Each cell is presented by a string with 3 spaces: <pre>"   "</pre>
-2. Each row has 3 cells, the middle separated by 2 `|` (pipe) characters: `   |   |   `
+2. Each row has 3 cells, the middle separated by 2 `|` (pipe) characters: <pre>   |   |   </pre>
 3. There are 3 rows, with 2 separating lines of 11 `-` (dash) characters: `-----------` 
 
 You can build a single big string and output it once or you can output each line individually. The end result when you execute your method should be the ascii characters above.
