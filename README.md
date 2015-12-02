@@ -97,3 +97,5 @@ A Tic Tac Toe Board
 ```
 
 And you can quickly see what it does!
+
+<a href='https://learn.co/lessons/ttt-3-display_board-example' data-visibility='hidden'>View this lesson on Learn.co</a>
