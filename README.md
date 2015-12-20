@@ -2,6 +2,18 @@
 
 ## Overview
 
+## Objectives
+
+1. Define a method `display_board`
+2. Print multiple formatted strings.
+
+## Instructions
+
+1. Define a method `display_board` in `lib/display_board.rb`
+2. `display_board` should print out the specified Tic Tac Toe board.
+3. Run `learn` locally until you pass.
+4. Submit the lab.
+
 A Tic Tac Toe program is going to need to be able to display the current state of the board before every turn so that the player can see the board before deciding what move to make. You could imagine a program working as follows, from a player's perspective.
 
 ```
@@ -52,17 +64,7 @@ Our `display_board` method should print out a board that looks exactly like:
 
 You can build a single big string and output it once or you can output each line individually. The end result when you execute your method should be the ascii characters above.
 
-## Objectives
 
-1. Define a method `display_board`
-2. Print multiple formatted strings.
-
-## Instructions
-
-1. Define a method `display_board` in `lib/display_board.rb`
-2. `display_board` should print out the specified Tic Tac Toe board.
-3. Run `learn` locally until you pass.
-4. Submit the lab.
 
 ## Tip: Using IRB to experiment
 
