@@ -85,7 +85,7 @@ Copy the contents of `lib/display_board.rb` to your IRB session.
 
 *Don't forget to hit enter after you paste. You should see `=> :display_board`*
 
-Now you can evoke your method by calling it:
+Now you can invoke your method by calling it:
 
 ```
 // ♥ irb
