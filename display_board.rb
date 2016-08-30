@@ -8,10 +8,8 @@ puts barrier
 print cell, divider, cell, divider
 puts cell
 puts barrier
-print cell, divider, cell, divider
-puts cell
+print cell, divider, cell, divider, cell
 end
 
 
 display_board
-# Define a method display_board that prints a 3x3 Tic Tac Toe Board
