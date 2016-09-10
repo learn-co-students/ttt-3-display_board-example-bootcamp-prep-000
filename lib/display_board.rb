@@ -3,7 +3,7 @@ def display_board
   cell = "   "
   cell_separator = "|"
   row_separator = "-" * 11
-  row = cell + cell_separator + cell + cell_separator + cell
+  row = (cell + cell_separator) * 2 + cell
   2.times {
     puts row
     puts row_separator
