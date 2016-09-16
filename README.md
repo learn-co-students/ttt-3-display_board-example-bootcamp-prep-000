@@ -68,7 +68,7 @@ You can build a single big string and output it once or you can output each line
 
 ## Tip: Using IRB to experiment
 
-As you define display_board in `lib/display_board.rb`, you're going to want to test your method and see what it does. Just running the test suite with `learn` will give you feedback on it's behavior, but there's a quicker way to see how your method behaves and if it matches the desired outcome.
+As you define display_board in `lib/display_board.rb`, you're going to want to test your method and see what it does. Just running the test suite with `learn` will give you feedback on its behavior, but there's a quicker way to see how your method behaves and if it matches the desired outcome.
 
 Open IRB from your terminal by typing `irb`.
 
@@ -101,3 +101,5 @@ A Tic Tac Toe Board
 And you can quickly see what it does!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-3-display_board-example' title='Printing a Tic Tac Toe Board'>Printing a Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ttt-3-display_board-example'>Display Tic Tac Board Example</a> on Learn.co and start learning to code for free.</p>
