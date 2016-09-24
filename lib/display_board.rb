@@ -1,16 +1,17 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
-  var row_one = [" ","|"," ","|"," "]
-  var row_two = [" ","|"," ","|"," "]
-  var row_three = [" ","|"," ","|"," "]
+  row_one = "   "+"|   |"+"   "
+  row_two = "   "+"|   |"+"   "
+  row_three = "   "+"|   |"+"   "
 
-  var bar = "-----------"
+  bar = "-----------"
 
-  row_one
-  bar
-  row_two
-  bar
-  row_three
+  puts row_one
+  puts bar
+  puts row_two
+  puts bar
+  puts row_three
+
 end
 
 display_board
