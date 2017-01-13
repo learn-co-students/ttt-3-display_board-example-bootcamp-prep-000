@@ -1,3 +1,5 @@
+# Learn.co Bootcamp Prep - Ruby Fundamentals - 06: Display Tic Tac Toe Board Example
+
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
   blank_cells = "   |   |   "
