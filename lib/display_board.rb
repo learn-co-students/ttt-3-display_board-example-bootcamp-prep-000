@@ -1,1 +1,10 @@
-# Define a method display_board that prints a 3x3 Tic Tac Toe Board
+def display_board
+  row = ["   ","|","   ","|","   ","\n"].join()
+  row_break = "-----------\n"
+  tic_tac = row
+  2.times do
+    tic_tac+=row_break
+    tic_tac+=row
+  end
+print tic_tac
+end
