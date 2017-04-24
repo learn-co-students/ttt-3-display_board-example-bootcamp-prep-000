@@ -1,7 +1,7 @@
 def display_board
-puts "   " | "   " | "   "
-11.times { puts "-" }
-puts "   " | "   " | "   "
-11.times { puts "-" }
-puts "   " | "   " | "   "
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
 end
