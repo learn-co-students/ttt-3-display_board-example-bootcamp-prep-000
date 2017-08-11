@@ -2,6 +2,12 @@
 
 def display_board
   cells = ["   ", "   ", "   "]
-  print cells[0] + "|" + cells[1] + "|" + cells.join("\n" + "-" * 11 + "\n" + cells[0] + "|" + cells[1] + "|")+ "\n"
+  puts cells[0] + "|" + cells[1] + "|" + cells[2] + "\n" + "-" * 11 + "\n"
+
+  puts cells[0] + "|" + cells[1] + "|" + cells[2] +"\n" + "-" * 11 + "\n"
+
+  puts cells[0] + "|" + cells[1] + "|" + cells[2] +"\n"
+
 end
+
 display_board
