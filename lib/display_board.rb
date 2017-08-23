@@ -9,7 +9,6 @@ puts
 puts "-----------"
 print  "   ", "|", "   ", "|", "   "
 puts
-return
 end
 
 display_board
