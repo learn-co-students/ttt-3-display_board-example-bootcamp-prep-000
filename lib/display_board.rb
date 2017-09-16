@@ -1,1 +1,12 @@
-# Define a method display_board that prints a 3x3 Tic Tac Toe Board
+def display_board
+  horiz = "-----------"
+  three_space = "   "
+  # cells = puts "#{three_space}|#{three_space}|"
+  # line = puts "#{horiz}"
+  puts "#{three_space}|#{three_space}|#{three_space}"
+  puts "#{horiz}"
+  puts "#{three_space}|#{three_space}|#{three_space}"
+  puts "#{horiz}"
+  puts "#{three_space}|#{three_space}|#{three_space}"
+
+end
