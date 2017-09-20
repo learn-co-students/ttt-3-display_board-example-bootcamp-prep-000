@@ -1,12 +1,19 @@
 def display_board
-   puts "Tic-Tac-Toe Board"
-   puts ""
-   puts "   |   |   "
+print "   "
+   print "|"
+   print "   "
+   print "|"
+   puts "   "
    puts "-----------"
-   puts "   |   |   "
+   print "   "
+   print "|"
+   print "   "
+   print "|"
+   puts "   "
    puts "-----------"
-   puts "   |   |   "
-
+   print "   "
+   print "|"
+   print "   "
+   print "|"
+   puts "   "
  end
-
- display_board
