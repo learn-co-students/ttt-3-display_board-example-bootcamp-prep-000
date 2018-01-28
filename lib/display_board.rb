@@ -13,7 +13,7 @@ def display_board
   numOfCols = 2
   for i in 0..numOfRows do
     for j in 0..numOfCols do
-      dispLocation(i)
+      dispLocation(i*3 + j)
       if j < numOfRows
         print $colDivider
       else
