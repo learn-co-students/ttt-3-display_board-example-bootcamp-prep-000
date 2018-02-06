@@ -1,12 +1,11 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
   # puts "Welcome to Tic Tac Toe"
-  cell = "   "
-  pipe = "|"
-  separating_lines = "-----------"
-  puts "#{cell}#{pipe}#{cell}#{pipe}#{cell}"
+  row = "   |   |   "
+  separating_lines = "-"*11
+  puts "#{row}"
   puts "#{separating_lines}"
-  puts "#{cell}#{pipe}#{cell}#{pipe}#{cell}"
+  puts "#{row}"
   puts "#{separating_lines}"
-  puts "#{cell}#{pipe}#{cell}#{pipe}#{cell}"
+  puts "#{row}"
 end
