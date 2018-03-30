@@ -10,5 +10,3 @@ def display_board
   puts "#{lines}"
   puts "#{cell}#{pipe}#{cell}#{pipe}#{cell}"
 end
-
-display_board
