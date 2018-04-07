@@ -5,11 +5,11 @@ def display_board
   horz = "---"
   
   row = cell + vert + cell + vert + cell
-  base = horz + "-" + horz + "-" + horz
+  div = horz + "-" + horz + "-" + horz
   
   puts row
-  puts base
+  puts div
   puts row
-  puts base
+  puts div
   puts row
 end
