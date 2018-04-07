@@ -13,6 +13,3 @@ def display_board
   puts base
   puts row
 end
-
-display_board
-
