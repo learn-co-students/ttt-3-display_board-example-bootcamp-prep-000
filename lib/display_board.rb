@@ -12,4 +12,4 @@ def display_board
   puts row 
 end 
 
-p tic_tac
+p display_board
