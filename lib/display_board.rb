@@ -3,7 +3,7 @@
 
 def display_board
   
-  rows_of_3 = "    |    |    "
+  rows_of_3 = "   |   |   "
   line_break = "-----------"
   
   puts rows_of_3
