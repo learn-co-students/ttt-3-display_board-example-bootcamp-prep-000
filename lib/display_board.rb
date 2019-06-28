@@ -12,3 +12,13 @@ def display_board
   
 end
 display_board
+
+# The solution from flatiron School
+
+# def display_board
+#   puts "   |   |   "
+#   puts "-----------"
+#   puts "   |   |   "
+#   puts "-----------"
+#   puts "   |   |   "
+# end
