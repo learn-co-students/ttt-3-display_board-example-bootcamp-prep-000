@@ -105,6 +105,4 @@ A Tic Tac Toe Board
 
 And you can quickly see what it does!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-3-display_board-example' title='Printing a Tic Tac Toe Board'>Printing a Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
-
 <p class='util--hide'>View <a href='https://learn.co/lessons/ttt-3-display_board-example'>Display Tic Tac Board Example</a> on Learn.co and start learning to code for free.</p>
